@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PsyChonek
-- 👀 I’m interested in Games!
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Android games.
+- 👋 Hi, I’m Daniel @PsyChonek Vazač
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C# .NET / Unity, and Java
+- 🏢 I’m currently working at Skeleton Software on Mobile/Web app Jobka, and focusing on VR University colab paragliding sim FlyOnVision
 - 📫 How to reach me daniel.vazac@email.cz
